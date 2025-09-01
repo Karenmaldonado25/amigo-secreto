@@ -5,13 +5,15 @@
 
 📝 Funcionalidades
 
-Agregar nombres: Escribí el nombre de un amigo y agregalo a la lista haciendo clic en Adicionar o presionando Enter.
+Agregar nombres: escribí el nombre de un amigo y agregalo a la lista haciendo clic en Adicionar o presionando Enter.
 
-Validación de entrada: Si el campo está vacío, se muestra una alerta solicitando un nombre válido.
+Validación de entrada: si el campo está vacío, se muestra una alerta solicitando un nombre válido.
 
-Visualizar la lista: Los nombres agregados se muestran en una lista clara y ordenada debajo del campo de entrada.
+Visualizar la lista: los nombres agregados se muestran en una lista clara y ordenada debajo del campo de entrada.
 
-Sorteo aleatorio: Al hacer clic en Sortear amigo, se selecciona un nombre al azar y se muestra en pantalla.
+Sorteo aleatorio: al hacer clic en Sortear amigo, se selecciona un nombre al azar y se muestra en pantalla.
+
+Limpiar lista: luego de realizarse el sorteo, el usuario podrá elimiar la lista de nombres existentes, para jugar nuevamente.  
 
 
 
