@@ -13,7 +13,7 @@ Visualizar la lista: los nombres agregados se muestran en una lista clara y orde
 
 Sorteo aleatorio: al hacer clic en Sortear amigo, se selecciona un nombre al azar y se muestra en pantalla.
 
-Limpiar lista: luego de realizarse el sorteo, el usuario podrá elimiar la lista de nombres existentes, para jugar nuevamente.  
+Limpiar lista: luego de realizarse el sorteo, el usuario podrá elimiar la lista de nombres existentes para jugar nuevamente.  
 
 
 
