@@ -1,5 +1,6 @@
-                                     🕹️ Juego de Amigo Secreto 🤫
+                                   🕹️ Juego de Amigo Secreto 🤫
 
+---
 
 ¡Bienvenido! Este proyecto es un **juego web interactivo** que permite agregar nombres a una lista y realizar un sorteo aleatorio para descubrir quién será el amigo secreto de manera divertida y sencilla.
 
@@ -30,8 +31,6 @@
 3. Visualizá la lista de nombres agregados.  
 4. Hacé clic en **Sortear amigo** para revelar al amigo secreto.  
 5. Limpiá la lista de nombres una vez realizado el sorteo y... ¡seguí disfrutando del juego!  
-
----
 
                 
 
