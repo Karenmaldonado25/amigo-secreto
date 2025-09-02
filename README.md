@@ -37,5 +37,6 @@ Visualizá la lista de nombres agregados.
 
 Hacé clic en Sortear amigo para revelar al amigo secreto.
 
+Limpiá la lista de nombres una vez realizado el sorteo y... ¡Seguí disfrutando del juego!
 
 
